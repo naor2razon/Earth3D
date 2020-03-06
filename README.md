@@ -5,5 +5,5 @@
 
 
 
-![](name-of-giphy.gif)
+![](https://github.com/naor2razon/Earth3D/blob/master/gif/earthGIF.gif)
 https://github.com/naor2razon/Earth3D/blob/master/gif/earthGIF.gif
